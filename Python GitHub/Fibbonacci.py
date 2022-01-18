@@ -1,6 +1,6 @@
 print("Fibonacci Series")
 n = int(input("Enter the value of 'n': "))
-a = 0
+a = 1
 b = 1
 sum = 0
 count = 1

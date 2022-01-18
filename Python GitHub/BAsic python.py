@@ -1,0 +1,10 @@
+print("BAsic Python DATA TYPES")
+print("CHARACTER INPUT")
+a = input("ENTER ANY WORD : ")
+print("INTEGER INPUT")
+b = int(input("ENTER ANY NO. : "))
+print("FLOAT INPUT")
+c  = float(input("ENTER ANY FLOATING NO. : "))
+print("BOOLEAN DATA-TYPE")
+d = True
+print(d)
