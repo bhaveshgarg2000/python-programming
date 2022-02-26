@@ -1,0 +1,11 @@
+s = set()
+# print(type(s))
+# S_from_list = set([1,2,3,4])
+# print(S_from_list)
+# print(type(S_from_list))
+s.add(1)
+s.add(2)
+s1 = {4,6,7}
+s.remove(2)
+# print(s.isdisjoint(s1))
+print(s)
